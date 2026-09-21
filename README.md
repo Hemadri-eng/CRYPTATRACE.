@@ -1,2 +1,5 @@
 # CRYPTATRACE.
 **CryptaTrace** is an automated blockchain intelligence platform for law enforcement, integrating with the I4C ecosystem to trace stolen funds from suspect wallets to the nearest VASP/off-ramp. It uses graph analytics, cross-chain tracing, AI-based risk detection, and automated evidence preservation reports.
+
+**Problem Understanding**
+When victims report fraud, investigators receive isolated, un-hosted cryptocurrency addresses rather than identifiable beneficiaries. Criminal syndicates intentionally obscure the money trail by routing illicit proceeds through disposable burner wallets, peel chains, decentralized bridges, and mixing protocols before converting them to fiat via centralized exchanges. Law enforcement officers and cybercrime units face severe technical bottlenecks: manual multi-chain tracing is slow, resource-heavy, and requires specialized forensic skills. Consequently, by the time investigators identify the target Virtual Asset Service Provider (VASP), the critical "golden window" to freeze funds has lapsed, resulting in permanent financial loss for victims and unpunished syndicated cybercrime.
